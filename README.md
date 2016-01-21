@@ -6,6 +6,7 @@ other tasks.
 
 [![ScreenShot](http://i.imgur.com/FJbYVVo.png?1)](https://drive.google.com/file/d/0B25hHW4ATym7MW9uc1R4MC0wZGM/edit?usp=sharing)
 
+See also: [https://github.com/vicamo/docker-binfmt-qemu](https://github.com/vicamo/docker-binfmt-qemu)
 
 Assumption
 ----------
